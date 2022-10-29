@@ -1,1 +1,4 @@
-# PatikaDev-Veri-Yap-lar--Ve-Algoritmalar
+# PatikaDev-Veri-Yapilari-Ve-Algoritmalar
+
+
+www.patika.dev
